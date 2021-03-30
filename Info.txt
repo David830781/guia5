@@ -1,0 +1,18 @@
+Datos Registrados
+===========
+===========
+Nombre y Apellidos . . . : David Yarleque
+Género [M-F] . . . . . . . . : Masculino
+Estado . . . . . . . . . . . . . : Mayor de edad
+Datos Registrados
+===========
+===========
+Nombre y Apellidos . . . : David Yarleque
+Género [M-F] . . . . . . . . : Masculino
+Estado . . . . . . . . . . . . . : Mayor de edad
+Datos Registrados
+===========
+===========
+Nombre y Apellidos . . . : David Yarleque
+Género [M-F] . . . . . . . . : Masculino
+Estado . . . . . . . . . . . . . : Mayor de edad
